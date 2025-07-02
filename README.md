@@ -37,7 +37,9 @@ Precision, Recall, F1-score
 | Random Forest | \~98.5–98.9% | Excellent balance of recall & precision |
 
 🔄 Pipeline Overview
+
 Text Preprocessing:
+
 Lowercasing, removing punctuation, stemming, stopword removal.
 
 Feature Extraction:

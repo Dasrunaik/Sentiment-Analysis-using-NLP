@@ -1,5 +1,6 @@
 # Sentiment-Analysis-using-NLP
 📊 Text Classification - SMS Spam Detection
+
 This project implements a text classification pipeline to detect spam messages in SMS data using traditional machine learning models such as Naive Bayes and Random Forest.
 
 📁 Dataset
